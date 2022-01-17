@@ -3,7 +3,7 @@
 
  🌱 I’m currently learning Information
 
- 👯 I’m looking to collaborate on git
+ 👯 I’m looking to collaborate on github
 
  🤔 I’m looking for help with 
 
